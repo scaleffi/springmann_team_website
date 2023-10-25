@@ -1,7 +1,8 @@
 ---
+layout: page
 title: "about"
-output: html_document
-date: "2023-10-25"
+permalink: https://scaleffi.github.io/webtest-marco-2/about
+
 ---
 
 
