@@ -1,10 +1,11 @@
 theme: Minima
-title: Paging the DR
-description: this is a silly test
+title: The Aquamarine Splash Room
+description: This is a test
 
 # Define the navigation links
 header_pages:
   - index.md
   - about.md
+  - projects.md
  
 
