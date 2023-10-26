@@ -10,6 +10,8 @@ Each project lists the researchers contributing to it, and a main contact for da
 
 Table of contents:
 1. [LSHTM Data Explorer](#project-1)
+2. [Project 2](#project-2)
+
 
 # Projects:
 
@@ -32,3 +34,7 @@ Table of contents:
   Download here the code used to generate the dashboard:
 
   * [Download dashboard script](Data/LSHTM_dashboard/app.R)
+
+## Project 2
+<!--Project 2 -->
+## Title of Project 2 and information on it.<br>
