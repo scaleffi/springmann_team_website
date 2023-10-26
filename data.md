@@ -10,7 +10,7 @@ Each project lists the researchers contributing to it, and a main contact for da
 
 # List of projects
 
-- [**LSHTM Data explorer**](https://sebacaleffi.shinyapps.io/dashboard_test2/) repository.<br>
+- [**LSHTM Data explorer**](https://sebacaleffi.shinyapps.io/dashboard_test2/).<br>
   Project members: SC, MS
   Project contact: [SC](mailto:sebastiano.caleffi@lshtm.ac.uk)
 
