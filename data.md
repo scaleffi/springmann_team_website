@@ -19,7 +19,7 @@ Each project lists the researchers contributing to it, and a main contact for da
   * [Download report_env_trs](report_env_trs_053123.csv).
   * [Download report_env_box](report_env_box_060123.csv).
   * [Download cons_compare](cons_compare_012823.csv).
-  * [Download FBS_intake_socio](FBS_intake_socio_all-a_051523).
+  * [Download FBS_intake_socio](FBS_intake_socio_all-a_051523.csv).
 
   Download here the code used to generate the dashboard:
 
