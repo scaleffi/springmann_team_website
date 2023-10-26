@@ -17,12 +17,12 @@ Each project lists the researchers contributing to it, and a main contact for da
 
 ## Project 1
 <!--LSHTM Data Explorer -->
-## [**LSHTM Data explorer**](https://sebacaleffi.shinyapps.io/dashboard_test2/).<br>
+## **LSHTM Data explorer** Access the online [dashboard](https://sebacaleffi.shinyapps.io/dashboard_test2/).<br>
 
   Project members: SC, MS
   Project contact: [SC](mailto:sebastiano.caleffi@lshtm.ac.uk)
 
-  The most up-to-date versions of the data, scripts, and instructions on how to run the dashboard will always be available at its dedicated [repository](https://github.com/scaleffi/shiny_diet_env). Please visit the repository if you need to make      sure the data you are accessing is the most up-to-date, as the links below are static and updated only sporadically. If you are unsure about what this means and need clarifications, email the project contact.
+  The most up-to-date versions of the data, scripts, and instructions on how to run the dashboard will always be available at its dedicated [repository](https://github.com/scaleffi/shiny_diet_env). Please visit the repository if you need to make    sure the data you are accessing is the most up-to-date, as the links below are static and updated only sporadically. If you are unsure about what this means and need clarifications, email the project contact.
 
   Download here the data used to generate the dashboard:
 
