@@ -8,7 +8,7 @@ The material is grouped by project.<br>
  
 Each project lists the researchers contributing to it, and a main contact for data requests.<br>
 
-Table of contents:
+# Table of contents:
 1. [LSHTM Data Explorer](#project-1)
 2. [Project 2](#project-2)
 
