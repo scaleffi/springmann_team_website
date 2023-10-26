@@ -14,6 +14,8 @@ Each project lists the researchers contributing to it, and a main contact for da
   Project members: SC, MS
   Project contact: [SC](mailto:sebastiano.caleffi@lshtm.ac.uk)
 
+  The most up-to-date versions of the data, scripts, and instructions on how to run the dashboard will always be available at its dedicated [repository](https://github.com/scaleffi/shiny_diet_env). Please visit the repository if you need to make      sure the data you are accessing is the most up-to-date, as the links below are static and updated only sporadically. If you are unsure about what this means and need clarifications, email the project contact.
+
   Download here the data used to generate the dashboard:
 
   * [Download report_env_trs](report_env_trs_053123.csv).
