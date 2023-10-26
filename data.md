@@ -19,9 +19,9 @@ Each project lists the researchers contributing to it, and a main contact for da
   Download here the data used to generate the dashboard:
 
   * [Download report_env_trs](Data/LSHTM_dashboard/report_env_trs_053123.csv).
-  * [Download report_env_box](report_env_box_060123.csv).
-  * [Download cons_compare](cons_compare_012823.csv).
-  * [Download FBS_intake_socio](FBS_intake_socio_all-a_051523.csv).
+  * [Download report_env_box](Data/LSHTM_dashboard/report_env_box_060123.csv).
+  * [Download cons_compare](Data/LSHTM_dashboard/cons_compare_012823.csv).
+  * [Download FBS_intake_socio](Data/LSHTM_dashboard/FBS_intake_socio_all-a_051523.csv).
 
   Download here the code used to generate the dashboard:
 
