@@ -8,7 +8,7 @@ The material is grouped by project.<br>
  
 Each project lists the researchers contributing to it, and a main contact for data requests.<br>
 
-# List of projects
+# Projects:
 
 - [**LSHTM Data explorer**](https://sebacaleffi.shinyapps.io/dashboard_test2/).<br>
   Project members: SC, MS
