@@ -7,7 +7,7 @@ This page lists projects that members of the team have completed or are working 
 
 *LSHTM Data Explorer: [Dashboard](https://sebacaleffi.shinyapps.io/dashboard_test2/)<br>
 
-Project members: SC and MS
-Project contact: [SC](mailto:sebastiano.caleffi@lshtm.ac.uk)<br>
-
-This dashboard allows users to visualise and explore data on global dietary intakes and related environmental footprints. It was built by SC using data prepared by MS. The dashboard has been developed using the R Shiny environment.
+  Project members: SC and MS
+  Project contact: [SC](mailto:sebastiano.caleffi@lshtm.ac.uk)<br>
+  
+  This dashboard allows users to visualise and explore data on global dietary intakes and related environmental footprints. It was built by SC using data prepared by MS. The dashboard has been developed using the R Shiny environment.
