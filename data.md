@@ -13,4 +13,4 @@ This is a test about paragraphs.
 # List of projects
 
 - [**LSHTM Data explorer**](https://sebacaleffi.shinyapps.io/dashboard_test2/) repository. 
-Download here the data used to generate the dashboard: [Download data on env footprints](report_env_trs_053123.csv)
+  * Download here the data used to generate the dashboard: [Download data on env footprints](report_env_trs_053123.csv). 
