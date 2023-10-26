@@ -25,4 +25,4 @@ Each project lists the researchers contributing to it, and a main contact for da
 
   Download here the code used to generate the dashboard:
 
-  * [Download dashboard script](app.R)
+  * [Download dashboard script](Data/LSHTM_dashboard/app.R)
