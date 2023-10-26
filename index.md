@@ -1,2 +1,5 @@
-Paging Dr. Springmann 2! (Is this the index file?)
+# Welcome to Our Research Team
+## About Us
+### Our Projects
+
 [About us](about.md)
