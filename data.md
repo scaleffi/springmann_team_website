@@ -4,7 +4,7 @@ title: Data repository
 ---
 
 This page allows you to download the raw data and supplementary materials used in our research. 
-The material is group by project.<br>
+The material is grouped by project.<br>
 This is a test about line breaks. 
 
 This is a test about paragraphs.  
