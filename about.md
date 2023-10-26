@@ -11,19 +11,10 @@ Welcome to the official website of our research team. We are dedicated to spread
 
 Meet our team members:
 
-- **Prof. Marco Springmann** - 
-- **Donagh Hennessy** - 
-- **Dr. Eugenia Divinitzer** -
-- **Sebastiano Caleffi** -
-## Research Projects
-
-Explore some of our ongoing research projects:
-
-1. **Marco Springmann's page:** [Profile of Lead Researcher](https://www.lshtm.ac.uk/aboutus/people/springmann.marco)
-   - This page gives a brief overview of Prof. Springmann's research interests and career progression.
-
-2. **Marine Splash (teal):** [Best color ever](https://www.dulux.co.uk/en/colour-details/marine-splash)
-   - This page shows you what color our room is painted in.
+- **Prof. Marco Springmann** - marco.springmann@lshtm.ac.uk
+- **Donagh Hennessy** - Donagh.Hennessy@lshtm.ac.uk
+- **Dr. Eugenia Divinitzer** - eugenia.dinivitzer@ouce.ox.ac.uk
+- **Sebastiano Caleffi** - sebastiano.caleffi@lshtm.ac.uk
 
 ## Contact Us
 
