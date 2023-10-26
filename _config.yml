@@ -4,7 +4,6 @@ description: This is a test
 
 # Define the navigation links
 header_pages:
-  - index.md
   - about.md
   - projects.md
   - data.md
