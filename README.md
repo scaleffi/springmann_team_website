@@ -1,2 +1,1 @@
-Paging Dr. Springmann 2!
-[About us](about.md)
+This directory contains instructions to generate a webpage for Marco Springmann's research team
