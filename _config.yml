@@ -4,7 +4,8 @@ description: this is a silly test
 
 # Define the navigation links
 header_pages:
-  #- index.md
+  - index.md
   - about.md
-  #- contact.md
+  - contact.md
+  - dashboard.md
 
