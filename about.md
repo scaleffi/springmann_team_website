@@ -11,7 +11,7 @@ Welcome to the official website of our research team. We are dedicated to spread
 
 Meet our team members:
 
-- **Prof. Marco Springmann** - mailto:marco.springmann@lshtm.ac.uk
+- **Prof. Marco Springmann** - [Email](mailto:marco.springmann@lshtm.ac.uk)
 - **Donagh Hennessy** - Donagh.Hennessy@lshtm.ac.uk
 - **Dr. Eugenia Divinitzer** - eugenia.dinivitzer@ouce.ox.ac.uk
 - **Sebastiano Caleffi** - sebastiano.caleffi@lshtm.ac.uk
