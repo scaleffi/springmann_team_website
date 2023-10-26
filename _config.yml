@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: default
 title: Paging the DR
 description: this is a silly test
 
@@ -6,6 +6,5 @@ description: this is a silly test
 header_pages:
   - index.md
   - about.md
-  - contact.md
-  - dashboard.md
+ 
 
