@@ -14,10 +14,10 @@ We are working to construct improved estimates of how food systems impact our he
 ## Team Members
 
 -   **Prof. Marco Springmann** - [Email](mailto:m.springmann@ucl.ac.uk) [Profile](https://www.lshtm.ac.uk/aboutus/people/springmann.marco) [Scholar](https://scholar.google.com/citations?user=NZ7drjwAAAAJ&hl=en)
--   **Donagh Hennessy** - [Email](d.hennessy@ucl.ac.uk)
--   **Sumati Bajaj** - [Email](sumati.bajaj@ucl.ac.uk)
--   **Jack Rawden** - [Email](jack.rawden.22@ucl.ac.uk)
--   **Sebastiano Caleffi** - [Email](s.caleffi@ucl.ac.uk)
+-   **Donagh Hennessy** - [Email](mailto:d.hennessy@ucl.ac.uk)
+-   **Sumati Bajaj** - [Email](mailto:sumati.bajaj@ucl.ac.uk)
+-   **Jack Rawden** - [Email](mailto:jack.rawden.22@ucl.ac.uk)
+-   **Sebastiano Caleffi** - [Email](mailto:s.caleffi@ucl.ac.uk)
 
 ## Contact Us
 
