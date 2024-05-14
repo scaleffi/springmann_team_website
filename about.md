@@ -5,20 +5,18 @@ title: About Us
 
 # About Our Research Team
 
-Welcome to the official website of our research team. We are dedicated to spreading the love for rooms painted in Aquamarine Splash.
+The team is lead by Prof. Marco Springmann, and all members contribute to his Wellcome-funded project ["Towards the full cost of diets"](https://wellcome.org/grant-funding/people-and-projects/grants-awarded/towards-full-cost-diets-valuing-and-attributing).
 
 ## Team Members
 
 Meet our team members:
 
-- **Prof. Marco Springmann** - [Email](mailto:marco.springmann@lshtm.ac.uk) [Profile](https://www.lshtm.ac.uk/aboutus/people/springmann.marco)
-- **Donagh Hennessy** - [Email](Donagh.Hennessy@lshtm.ac.uk)
-- **Dr. Eugenia Divinitzer** - [Email](eugenia.dinivitzer@ouce.ox.ac.uk)
-- **Sebastiano Caleffi** - [Email](sebastiano.caleffi@lshtm.ac.uk)
+-   **Prof. Marco Springmann** - [Email](mailto:m.springmann@ucl.ac.uk) [Profile](https://www.lshtm.ac.uk/aboutus/people/springmann.marco)
+-   **Donagh Hennessy** - [Email](d.hennessy@ucl.ac.uk)
+-   **Sumati Bajaj** - [Email](sumati.bajaj@ucl.ac.uk)
+-   **Jack Rawden** - [Email](jack.rawden.22@ucl.ac.uk)
+-   **Sebastiano Caleffi** - [Email](s.caleffi@ucl.ac.uk)
 
 ## Contact Us
 
-If you have any questions or would like to collaborate with us, please [contact us](mailto:sebastiano.caleffi@lshtm.ac.uk).
-
-
-
+If you have any questions or would like to collaborate with us, please [contact us](mailto:s.caleffi@ucl.ac.uk).
