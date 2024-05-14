@@ -4,6 +4,7 @@ title: Towards the full cost of diets
 
 # Define the navigation links
 header_pages:
+  - index.md
   - about.md
   - projects.md
   - data.md
