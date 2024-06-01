@@ -5,7 +5,7 @@ title: Home
 
 ## Welcome
 
-Welcome to the Springmann Group on Healthy Diets from Sustainable Food Systems. We are a multi-centre research group based at UCL's [Institute for Global Health](https://www.ucl.ac.uk/global-health/igh-centres-0) and the University of Oxford's [Environmental Change Institute](https://www.eci.ox.ac.uk/research/environment-health).
+Welcome to the **Springmann Group on Healthy Diets from Sustainable Food Systems**. We are a multi-centre research group based at UCL's [Institute for Global Health](https://www.ucl.ac.uk/global-health/igh-centres-0) and the University of Oxford's [Environmental Change Institute](https://www.eci.ox.ac.uk/research/environment-health).
 
 ## Research
 
