@@ -17,6 +17,9 @@ Our research focuses on the impacts our diets and food systems have on planetary
 
 **Policy options:** Analysis of how health, agricultural, and economic policies affect diets and food systems. <br>
  
+## Projects
+
+We work on a variety of [projects](https://scaleffi.github.io/webtest-marco-2/projects.html). We are an independent research group and do not accept any funding from the food industry or other bodies that could be perceived to constitute a conflict of interest.
 
 ## Contact
 
