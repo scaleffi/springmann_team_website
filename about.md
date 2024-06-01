@@ -31,8 +31,3 @@ We are a multi-disciplinary research group across several institutions. The team
 - **Jack Rawden** [Email](mailto:jack.rawden.22@ucl.ac.uk) <br>
   Research Assistant in Ecosystems and Biodiversity <br>
   Institute for Global Health, University College London, UK
-
-
-## Contact Us
-
-If you have any questions or would like to collaborate with us, please [contact us](mailto:s.caleffi@ucl.ac.uk).
