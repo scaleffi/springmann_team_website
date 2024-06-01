@@ -10,6 +10,7 @@ header_pages:
   - about.md
   - research.md
   - projects.md
+  - tools.md
 #  - data.md
 
 minima:
