@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Our work
+title: Our projects
 ---
 
 This page lists projects that members of the team have completed or are working on. Each entry will give you brief information on the project, which team members are involved, and who the main contact is. If you just need access to the data behind the project, head to the 'Our data' tab.
