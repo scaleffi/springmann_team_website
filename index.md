@@ -20,7 +20,7 @@ Our research focuses on the impacts our diets and food systems have on planetary
 - **Policy options**: <br>
   Analysis of how health, agricultural, and economic policies affect diets and food systems.
 
-Most of our work is global in scope with [results](https://scaleffi.github.io/webtest-marco-2/data.html) available at national and regional levels. 
+Most of our work is global in scope with [results](https://scaleffi.github.io/webtest-marco-2/research.html) available at national and regional levels. 
 
 
 ## Contact
