@@ -1,6 +1,8 @@
 theme: Minima
 title: Food Systems Research Group
-#description: This is a test
+
+# Remove footer:
+author: 
 
 # Define the navigation links
 header_pages:
@@ -9,6 +11,3 @@ header_pages:
   - research.md
   - projects.md
 #  - data.md
- 
-# Remove footer:
-author: 
