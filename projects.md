@@ -5,7 +5,9 @@ title: Our projects
 
 ## Research Projects:
 
-Our active research projects and their funding are listed below. We are an independent research group and do not accept any funding from the food industry or other bodies that could be perceived to constitute a conflict of interest.
+Our active research projects and their funding are listed below. 
+
+We are an independent research group and do not accept any funding from the food industry or other bodies that could be perceived to constitute a conflict of interest.
 
 #### **[Towards the full cost of diets](https://wellcome.org/grant-funding/people-and-projects/grants-awarded/towards-full-cost-diets-valuing-and-attributing): valuing and attributing food system externalities to improve decision-making for human and planetary health**
   - Wellcome Trust, Career Development Award, 2022-2030
