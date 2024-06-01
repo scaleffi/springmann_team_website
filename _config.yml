@@ -2,7 +2,8 @@ theme: Minima
 title: Food Systems Research Group
 
 # This goes into the footer:
-author: the team
+author: 
+  name: Springmann Group on Healthy and Sustainable Food Systems
 
 # Define the navigation links
 header_pages:
@@ -11,3 +12,6 @@ header_pages:
   - research.md
   - projects.md
 #  - data.md
+
+minima:
+  skin: auto
