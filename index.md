@@ -9,7 +9,9 @@ Welcome to the **Springmann Group on Healthy Diets from Sustainable Food Systems
 
 ## Research
 
-Our research focuses on the impacts our diets and food systems have on planetary and public health. Most of our work is global in scope with [results](https://scaleffi.github.io/webtest-marco-2/research.html) available at national and regional levels. Our areas of research include:
+Our research focuses on the impacts our diets and food systems have on planetary and public health. Our work is multi-disciplinary, quantitative, and global in scope with [results](https://scaleffi.github.io/webtest-marco-2/research.html) available at national and regional levels. 
+
+Our areas of research include:
 
 **Systems:** Characterisation of diets and food systems that are healthy, environmentally sustainable, and economically just. <br>
 
@@ -19,9 +21,9 @@ Our research focuses on the impacts our diets and food systems have on planetary
  
 ## Projects
 
-We work on a variety of [projects](https://scaleffi.github.io/webtest-marco-2/projects.html). We are an independent research group and do not accept any funding from the food industry or other bodies that could be perceived to constitute a conflict of interest.
+We work on a variety of funded research [projects](https://scaleffi.github.io/webtest-marco-2/projects.html). We are an independent research group and do not accept any funding from the food industry or other bodies that could be perceived to constitute a conflict of interest.
 
 ## Contact
 
-If you have any questions or would like to collaborate with us, please [contact us](mailto:s.caleffi@ucl.ac.uk).
+Please [contact us](mailto:s.caleffi@ucl.ac.uk) if you have any questions or would like to collaborate with us.
 
