@@ -20,14 +20,18 @@ We are a multi-disciplinary research group across several institutions. The team
   *Research Fellow in Food Systems* <br>
   Environmental Change Institute, University of Oxford, UK
 
-- **Sumati Bajaj** [Email](mailto:sumati.bajaj@ucl.ac.uk) <br>
-  *Research Fellow for Sustainable Diets* <br>
-  Institute for Global Health, University College London, UK
-
 - **Sebastiano Caleffi** [Email](mailto:s.caleffi@ucl.ac.uk) <br>
   *Research Assistant in Food System Externalities* <br>
+  Institute for Global Health, University College London, UK
+
+- **Sumati Bajaj** [Email](mailto:sumati.bajaj@ucl.ac.uk) <br>
+  *Research Fellow for Sustainable Diets* <br>
   Institute for Global Health, University College London, UK
         
 - **Jack Rawden** [Email](mailto:jack.rawden.22@ucl.ac.uk) <br>
   *Research Assistant in Ecosystems and Biodiversity* <br>
   Institute for Global Health, University College London, UK
+
+- **Olivia Auclair** [Email]() <br>
+  *Researcher in Health Modelling* <br>
+  Environmental Change Institute, University of Oxford, UK
