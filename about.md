@@ -10,26 +10,27 @@ output:
 
 We are a multi-disciplinary research group across several institutions. The team is led by Marco Springmann and includes:  
 
-- **Prof Marco Springmann**
-  - Professorial Research Fellow in Climate Change, Food Systems and Health | Institute for Global Health | University College London
-  - Senior Researcher on Environment and Health | Environmental Change Institute | University of Oxford 
-  - [Email](mailto:m.springmann@ucl.ac.uk) [Profile](https://www.lshtm.ac.uk/aboutus/people/springmann.marco) [Scholar](https://scholar.google.com/citations?user=NZ7drjwAAAAJ&hl=en)
+- **Prof Marco Springmann** [Email](mailto:m.springmann@ucl.ac.uk) [Profile](https://www.lshtm.ac.uk/aboutus/people/springmann.marco) [Scholar](https://scholar.google.com/citations?user=NZ7drjwAAAAJ&hl=en) <br> 
+  Professorial Research Fellow in Climate Change, Food Systems and Health,  <br> 
+  Institute for Global Health, University College London, UK <br> 
+  Senior Researcher on Environment and Health,  <br>
+  Environmental Change Institute, University of Oxford, UK
     
-- **Donagh Hennessy**
-  - Research Fellow in Food Systems | University of Oxford
-  - [Email](mailto:d.hennessy@ucl.ac.uk)
+- **Donagh Hennessy** [Email](mailto:d.hennessy@ucl.ac.uk) <br>
+  Research Fellow in Food Systems <br>
+  Environmental Change Institute, University of Oxford, UK
 
-- **Sumati Bajaj**
-  - Research Fellow for Sustainable Diets | Institute for Global Health | University College London
-  - [Email](mailto:sumati.bajaj@ucl.ac.uk)
+- **Sumati Bajaj** [Email](mailto:sumati.bajaj@ucl.ac.uk) <br>
+  Research Fellow for Sustainable Diets <br>
+  Institute for Global Health, University College London, UK
 
-- **Sebastiano Caleffi**
-  - Research Assistant in Food System Externalities | Institute for Global Health | University College London
-  - [Email](mailto:s.caleffi@ucl.ac.uk)
+- **Sebastiano Caleffi** [Email](mailto:s.caleffi@ucl.ac.uk) <br>
+  Research Assistant in Food System Externalities <br>
+  Institute for Global Health, University College London, UK
         
-- **Jack Rawden**
-  - Research Assistant in Ecosystems and Biodiversity
-  - [Email](mailto:jack.rawden.22@ucl.ac.uk)
+- **Jack Rawden** [Email](mailto:jack.rawden.22@ucl.ac.uk) <br>
+  Research Assistant in Ecosystems and Biodiversity <br>
+  Institute for Global Health, University College London, UK
 
 
 ## Contact Us
