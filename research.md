@@ -5,13 +5,15 @@ title: Our research
 
 We are conducting multi-disciplinary systems analysis for characterising, analysing, and developing options for food systems that are healthy, environmentally sustainable, and economically just. Our research themes include: 
 
-1.	**Impacts of environmental changes on diets and food systems**:
+
+**Impacts of environmental changes on diets and food systems**:
 
 -- Diet-related health impacts of climate change: [Springmann et al, Lancet 2016](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)01156-3/abstract)
 
 -- Nutritional imapcts of climate change: [Springmann, CIMMYT 2021](https://repository.cimmyt.org/handle/10883/21778)
 
-2. **Impacts of diets and food systems on health, the environment, and livelihoods**:
+
+**Impacts of diets and food systems on health, the environment, and livelihoods**:
 
 -- Diet-related mortality: [Springmann et al, PNAS 2016](https://www.pnas.org/doi/10.1073/pnas.1523119113), [Springmann et al, Lancet PH 2018](https://www.thelancet.com/journals/lanplh/article/piis2542-5196(18)30206-7/fulltext)
 
@@ -23,7 +25,8 @@ We are conducting multi-disciplinary systems analysis for characterising, analys
 
 -- Cost-related aspects of diets: [Springmann et al, Lancet Planetary Health 2021](https://www.pnas.org/doi/10.1073/pnas.1523119113) [2](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00251-5/fulltext)
 
-3. **Policy options to support transitions towards healthy and sustainable food systems**:
+
+**Policy options to support transitions towards healthy and sustainable food systems**:
 
 -- Emissions and health taxes: [Springmann et al, Nature Climate Change 2017](https://www.nature.com/articles/nclimate3155), [Springmann et al, Plos One 2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204139)
 
