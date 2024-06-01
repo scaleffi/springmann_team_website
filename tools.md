@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Our research
+title: Tools
 ---
 
 ## Research tools
