@@ -3,6 +3,8 @@ layout: default
 title: Our research
 ---
 
+## Our Research
+
 We are conducting multi-disciplinary systems analysis for characterising, analysing, and developing options for food systems that are healthy, environmentally sustainable, and economically just. Our research themes include: 
 
 
