@@ -1,7 +1,7 @@
 theme: Minima
 title: Food Systems Research Group
 
-# Remove footer:
+# This goes into the footer:
 author: the team
 
 # Define the navigation links
