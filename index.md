@@ -21,7 +21,9 @@ Our areas of research include:
  
 ## Projects
 
-We work on a variety of funded research [projects](https://scaleffi.github.io/webtest-marco-2/projects.html). We are an independent research group and do not accept any funding from the food industry or other bodies that could be perceived to constitute a conflict of interest.
+We work on a variety of funded research [projects](https://scaleffi.github.io/webtest-marco-2/projects.html). 
+
+We are an independent research group and do not accept any funding from the food industry or other bodies that could be perceived to constitute a conflict of interest.
 
 ## Contact
 
