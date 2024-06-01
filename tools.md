@@ -1,3 +1,8 @@
+---
+layout: default
+title: Our research
+---
+
 ## Research tools
 
 We work with a variety of research tools and methods. 
