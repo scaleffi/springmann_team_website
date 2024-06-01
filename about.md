@@ -10,7 +10,7 @@ output:
 
 We are a multi-disciplinary research group across several institutions. The team is led by Marco Springmann and includes:  
 
-- **Prof Marco Springmann** [Email](mailto:m.springmann@ucl.ac.uk) [Profile](https://www.lshtm.ac.uk/aboutus/people/springmann.marco) [Scholar](https://scholar.google.com/citations?user=NZ7drjwAAAAJ&hl=en) <br> 
+- **Prof Marco Springmann** [Email](mailto:m.springmann@ucl.ac.uk) [Profile](https://www.eci.ox.ac.uk/person/dr-marco-springmann) [Scholar](https://scholar.google.com/citations?user=NZ7drjwAAAAJ&hl=en) <br> 
   *Professorial Research Fellow in Climate Change, Food Systems and Health*  <br> 
   Institute for Global Health, University College London, UK <br> 
   *Senior Researcher on Environment and Health*  <br>
