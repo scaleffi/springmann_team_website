@@ -8,7 +8,9 @@ Welcome to the Springmann Group on Healthy Diets from Sustainable Food Systems! 
 Our research focuses on the impacts our diets and food systems have on planetary and public health. We conduct multi-disciplinary systems analysis for characterising, analysing, and developing options for healthy sustainable food systems. Our areas of research include:
 
 -- **Assessments of impacts**: Analysis of the health and food-system impacts of environmental change, including assessments of the full cost of diets
+
 -- **Assessments of the drivers of impacts and co-benefits**: Analysis of how dietary and food-system changes impact human health and the environment
+
 -- **Assessments of policy options**: Analysis of fiscal and other incentives for supporting a transition towards healthy and sustainable food systems
 
 Most of our work is global in scope with results available at national and regional levels. The [data](https://scaleffi.github.io/webtest-marco-2/data.html) tab lists some examples of available data. [Maybe rename the tab as 'Research']
