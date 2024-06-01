@@ -10,4 +10,5 @@ header_pages:
   - projects.md
 #  - data.md
  
-
+# Remove footer:
+author: 
