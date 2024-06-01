@@ -24,3 +24,6 @@ Most of our work is global in scope with [results](https://scaleffi.github.io/we
 
 
 ## Contact
+
+If you have any questions or would like to collaborate with us, please [contact us](mailto:s.caleffi@ucl.ac.uk).
+
