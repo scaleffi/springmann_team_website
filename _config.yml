@@ -2,8 +2,7 @@ theme: Minima
 title: Food Systems Research Group
 
 # This goes into the footer:
-author: 
-  name: Marco Springmann
+author: Marco Springmann
 
 # Define the navigation links
 header_pages:
