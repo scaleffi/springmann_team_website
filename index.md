@@ -9,19 +9,17 @@ Welcome to the **Springmann Group on Healthy Diets from Sustainable Food Systems
 
 ## Research
 
-Our research focuses on the impacts our diets and food systems have on planetary and public health. Our areas of [research](https://scaleffi.github.io/webtest-marco-2/research.html) include:
+Our research focuses on the impacts our diets and food systems have on planetary and public health. Most of our work is global in scope with [results](https://scaleffi.github.io/webtest-marco-2/research.html) available at national and regional levels. Our areas of research include:
 
-- **Systems**: <br>
-  Characterisation of diets and food systems that are healthy, environmentally sustainable, and economically just.
+#### Systems: 
+- Characterisation of diets and food systems that are healthy, environmentally sustainable, and economically just.
 
-- **Impacts**: <br>
-  Analysis of how dietary and food-system changes impact human health and the environment.
+#### Impacts:
+- Analysis of how dietary and food-system changes impact human health and the environment.
 
-- **Policy options**: <br>
-  Analysis of how health, agricultural, and economic policies affect diets and food systems.
-
-Most of our work is global in scope with [results](https://scaleffi.github.io/webtest-marco-2/research.html) available at national and regional levels. 
-
+#### Policy options:
+- Analysis of how health, agricultural, and economic policies affect diets and food systems.
+ 
 
 ## Contact
 
