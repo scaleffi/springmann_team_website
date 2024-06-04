@@ -12,7 +12,7 @@ We are an independent research group and do not accept any funding from the food
 #### **[Towards the full cost of diets](https://wellcome.org/grant-funding/people-and-projects/grants-awarded/towards-full-cost-diets-valuing-and-attributing): valuing and attributing food system externalities to improve decision-making for human and planetary health**
   - Wellcome Trust, Career Development Award, 2022-2030
   - Marco Springmann, Fellow
-  - Sebastiani Caleffi, Research Assistant
+  - Sebastiano Caleffi, Research Assistant
   - Jack Rawden, Research Assistant
 
 #### **[BrightSpace](https://brightspace-project.eu/): Designing a Roadmap for Effective and Sustainable Strategies for Assessing and Addressing the Challenges of EU Agriculture to Navigate within a Safe and Just Operating Space**
