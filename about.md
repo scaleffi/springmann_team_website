@@ -20,7 +20,7 @@ We are a multi-disciplinary research group across several institutions. The team
   *Research Fellow in Food Systems* <br>
   Environmental Change Institute, University of Oxford, UK
 
-- **Sebastiano Caleffi** [Email](mailto:s.caleffi@ucl.ac.uk) [orcid](https://orcid.org/0000-0002-8887-7370) <br>
+- **Sebastiano Caleffi** [Email](mailto:s.caleffi@ucl.ac.uk) [Profile](https://orcid.org/0000-0002-8887-7370) <br>
   *Research Assistant in Food System Externalities* <br>
   Institute for Global Health, University College London, UK
 
