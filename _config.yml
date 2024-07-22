@@ -2,9 +2,7 @@ theme: Minima
 title: Food Systems Research Group
 
 # This goes into the footer:
-author: 
-  name: Marco Springmann
-  email: m.springmann@ucl.ac.uk 
+author: Marco Springmann
 
 # Define the navigation links
 header_pages:
@@ -15,5 +13,5 @@ header_pages:
   - tools.md
 #  - data.md
 
-Minima:
+minima:
   skin: dark
